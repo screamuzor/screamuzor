@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @screamuzor aka Uzoma 
-- 👀 I’m interested in coding areas like Python and in detail Linux and DevOps 
-- 🌱 I’m currently learning DevOps and already putting my hands on Linux so feel free to hit me up in the area of Linux
-- 💞️ I’m looking to collaborate on any project, I am a fast learner and I already have over 20 years of working experience in Oil and Gas niche. I'm a cool OG :) lol
-- 📫 How to reach me ; well you can hit me up here or via my email 
-- 😄 Pronouns: ... Let's just say I am a cool guy 
-- ⚡ Fun fact: ... I love constructive discussions and I love to read 
+ Hi, I'm Uzoma — Data Scientist & Energy Domain Expert
+ 
+🎓 Masters Student in Data Science @ University of Europe for Applied Sciences (Potsdam, Germany)
+💼 10+ years of experience in the Oil & Gas downstream sector (Nigeria & Ghana)
+🌍 Currently based in Potsdam, Germany | Open to opportunities across the EU
 
-<!---
-screamuzor/screamuzor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+I'm a data scientist in transition — combining deep domain expertise from the energy sector with modern data science skills. I believe the most powerful insights come from people who understand both the data and the business.
+
+
+🔭 Currently working on: SQL analytics, Power BI dashboards & Python for data science
+🌱 Currently learning: PostgreSQL, Python, Machine Learning & BI tools
+👯 Looking to collaborate on: Data analysis projects, especially in energy, healthcare & finance
+⚡ Fun fact: I went from managing oil pipelines to querying databases — and I love both! 😄
