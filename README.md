@@ -11,4 +11,4 @@ I'm a data scientist in transition — combining deep domain expertise from the 
 🔭 Currently working on: SQL analytics, Power BI dashboards & Python for data science
 🌱 Currently learning: PostgreSQL, Python, Machine Learning & BI tools
 👯 Looking to collaborate on: Data analysis projects, especially in energy, healthcare & finance
-⚡ Fun fact: I went from managing oil pipelines to querying databases — and I love both! 😄
+⚡ Fun fact: I went from managing oil pipelines to querying databases, and I love both! 😄
