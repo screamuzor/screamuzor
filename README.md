@@ -1,4 +1,4 @@
- Hi, I'm Uzoma — Data Scientist & Energy Domain Expert
+ Hi, I'm Uzoma a Data Scientist & Energy Domain Expert
  
 🎓 Masters in Data Science @ University of Europe for Applied Sciences (Potsdam, Germany)
 💼 15+ years of experience in the Oil & Gas downstream sector 
